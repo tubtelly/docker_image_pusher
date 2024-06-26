@@ -1,1 +1,2 @@
 louislam/uptime-kuma:1
+xuxueli/xxl-job-admin:2.4.0
