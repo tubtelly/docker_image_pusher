@@ -4,3 +4,4 @@ jasminexzzz/blossom:latest
 nacos/nacos-server:v2.3.2
 noearorg/folkmq-broker:1.7.4
 sonatype/nexus3:latest
+gitea/gitea:latest
